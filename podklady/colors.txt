@@ -1,0 +1,25 @@
+**blog
+
+bg body: #f9f9f9;
+bg header and footer: #0077cc;
+shadow post: rgba(0, 0, 0, 0.1);
+texts and links on dark bg: white
+===================
+**recepty
+
+bg body: #f4f4f9;
+h1: #333;
+h2: #666;
+shadow table: rgba(0, 0, 0, 0.1);
+table head: #ffcc80;
+borders: #ddd;
+table body bg: #fff3e0, #ffe0b2,#ffb74d;
+ ** timetables
+
+ bg body:  #f9f9f9;
+ bg table head: #0077cc;
+ borders: #ccc;
+ bg tablebody: #e6f7ff, #cceeff, #b3e0ff
+
+===============
+fonts *: Arial, sans-serif;
