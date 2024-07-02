@@ -1,0 +1,30 @@
+===================1======================
+**Tabulky:
+
+Vytvořte rozvrh hodin na týden.
+Vytvořte tabulku s receptem a jeho ingrediencemi.
+===================2==========================
+**CSS Grid Layout:
+
+Navrhněte rozvržení domovské stránky pro fiktivní blog.
+
+===================3==========================
+
+Vytvořte rozvržení galerie obrázků s různými velikostmi mřížek.
+
+===================4==========================
+
+Máte nějaké dotazy?
+Diskutujte o různých možnostech a příkladech, které jsme si ukázali.
+
+===================5==========================
+
+Praktické cvičení:
+**HTML Tabulky:
+
+Vytvořte tabulku s oblíbenými knihami, kde budete mít sloupce Název, Autor, Žánr, a Hodnocení.
+
+
+**CSS Grid Layout:
+
+Navrhněte jednoduchou webovou stránku s mřížkou, kde bude záhlaví, hlavní obsah, a dvě postranní lišty.
